@@ -1,17 +1,17 @@
 # Active Record Intro
 
 ## How do we explore ActiveRecord?
-1. Documentation & Articles:
-- - http://guides.rubyonrails.org/active_record_querying.html
-- - http://www.rubydoc.info/gems/activerecord
-- - https://apidock.com/rails/ActiveRecord
-- - https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-queries
+#### Documentation & Articles:
+  - http://guides.rubyonrails.org/active_record_querying.html
+  - http://www.rubydoc.info/gems/activerecord
+  - https://apidock.com/rails/ActiveRecord
+  - https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-queries
 
-2. Grep: ```Song.methods.grep(/*regex here*/)```
+#### Grep: ```Song.methods.grep(/*regex here*/)```
 
-3. Pry-doc: Gem that gives you show-doc and show-method, call like this: ```show-doc Song.all```
+#### Pry-doc: Gem that gives you show-doc and show-method, call like this: ```show-doc Song.all```
 
-4. Think about the SQL: ```Song.all.to_sql``` and ```Song.all.explain```
+#### Think about the SQL: ```Song.all.to_sql``` and ```Song.all.explain```
 
 ## Activity
 
