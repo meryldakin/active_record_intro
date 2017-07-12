@@ -1,5 +1,12 @@
 # Active Record Intro
 
+## Objectives:
+#### 1. Understand every line of code in a small ActiveRecord project
+#### 2. Understand how to explore ActiveRecord on our own
+
+## Music Library
+Explore this music library, see the comments in the config file and check out the associations. Clone it down and play with the methods on the objects. Run migrations to change the schema.
+
 ## How do we explore ActiveRecord?
 #### Documentation & Articles:
   - http://guides.rubyonrails.org/active_record_querying.html
