@@ -16,9 +16,10 @@
 ## Activity
 
 ### Find methods that perform the following operations:
-1. Check a history of the changes made to instance of Song class' attributes
+1. Check a history of the changes made to an instance of Song class' attributes
 2. Get all the names of songs as strings in an array (no map, collect, select or each)
 3. Add a new object to your database IF it doesn't already exist
+4. Check to see if an object has been saved into the database
 
 ### Find one method not mentioned to share:
 ___________________________________________
